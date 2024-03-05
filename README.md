@@ -1,2 +1,2 @@
 # RURU
-Rust Tracer. v 2.0
+Rust Tracer. v 1.0
