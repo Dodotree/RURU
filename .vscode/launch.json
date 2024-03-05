@@ -5,9 +5,10 @@
             "name": "Debug",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/target/debug/my_rust_project",
+            "program": "/u2/pr44/VS/RURU/ruru/target/debug/ruru",
             "args": [],
-            "cwd": "${workspaceFolder}"
+            "cwd": "/u2/pr44/VS/RURU/ruru/target/debug",
+            "preLaunchTask": "build"
         }
     ]
 }
