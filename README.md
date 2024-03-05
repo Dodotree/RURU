@@ -1,2 +1,2 @@
 # RURU
-Rust Tracer.  Mar 04 2024.
+Rust Tracer. v 1.0.
